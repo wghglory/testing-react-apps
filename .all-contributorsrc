@@ -188,6 +188,42 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "marioleed",
+      "name": "Mario Sannum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1763448?v=4",
+      "profile": "https://github.com/marioleed",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ssmkhrj",
+      "name": "Som Shekhar Mukherjee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49264891?v=4",
+      "profile": "https://github.com/ssmkhrj",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "skgyan",
+      "name": "Sushil Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5046860?v=4",
+      "profile": "https://github.com/skgyan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Joao-pina-fernandes",
+      "name": "João Pina Fernandes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7046309?v=4",
+      "profile": "https://www.linkedin.com/in/joao-fernandes-75b9a763/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "none"
